@@ -42,7 +42,6 @@ int main()
             {
                 result++;
                 sum += i;
-                cout << i << ":" << "\n";
             }
         }
     }
