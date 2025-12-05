@@ -3,7 +3,6 @@
 using namespace std;
 
 long long checkCount(long num);
-long long power(long long a, long long b);
 
 int main()
 {
